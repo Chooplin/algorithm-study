@@ -1,4 +1,4 @@
-package programmers.skillcheck.Lv0;
+package programmers.java.Lv0;
 
 public class 짝수의_합 {
     public static void main(String[] args) {

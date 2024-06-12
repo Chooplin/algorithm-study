@@ -1,4 +1,4 @@
-package programmers.skillcheck.Lv0;
+package programmers.java.Lv0;
 
 public class 두_수의_곱 {
     public static void main(String[] args) {
